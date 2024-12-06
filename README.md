@@ -4,7 +4,7 @@
 
 Hi there! 👋 I'm a passionate front-end web developer dedicated to creating dynamic and visually appealing web applications. My journey in web development has been driven by a deep curiosity and an unrelenting desire to learn and innovate.
 
-Skills:  REACT / JS / HTML / CSS
+Skills:  REACT / Javascript / HTML / CSS/ node.js/ next.js
 
 
 
